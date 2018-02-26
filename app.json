@@ -1,7 +1,9 @@
 {
   "pages": [
-    "pages/index/index",
-    "pages/logs/logs"
+    "pages/home/index",
+    "pages/logs/logs",
+    "pages/mine/mine",
+    "pages/index/index"
   ],
   "window": {
     "backgroundTextStyle": "light",
@@ -23,6 +25,12 @@
         "text": "商城",
         "iconPath": "img/B1.png",
         "selectedIconPath": "img/B2.png"
+      },
+      {
+        "pagePath": "pages/mine/mine",
+        "text": "我的",
+        "iconPath": "img/C1.png",
+        "selectedIconPath": "img/C2.png"
       }
     ],
     "color": "#888",
