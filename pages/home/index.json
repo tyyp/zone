@@ -1,0 +1,5 @@
+{
+  "navigationBarTitleText": "首页",
+  "onReachBottom": 50,
+  "enablePullDownRefresh": true
+}
